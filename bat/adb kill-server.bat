@@ -1,0 +1,2 @@
+cd ..
+adb kill-server
