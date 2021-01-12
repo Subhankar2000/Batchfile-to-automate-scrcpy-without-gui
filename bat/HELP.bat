@@ -1,0 +1,3 @@
+cd ..
+scrcpy --help
+pause
