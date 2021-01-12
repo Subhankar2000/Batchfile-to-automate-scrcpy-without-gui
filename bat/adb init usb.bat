@@ -1,0 +1,3 @@
+cd ..
+adb devices
+pause
